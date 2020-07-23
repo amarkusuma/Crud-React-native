@@ -1,0 +1,17 @@
+{
+    "posts": [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+
+    "barang": [{
+        "kode_barang": "Print1",
+        "nama_barang": "Printer L210",
+        " deskripsi_barang_": "Printer Epson warna",
+        "harga_satuan": "PCS",
+        "stock": 5
+    }]
+}
